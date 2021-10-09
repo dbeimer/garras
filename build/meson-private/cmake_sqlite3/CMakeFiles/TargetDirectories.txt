@@ -1,0 +1,2 @@
+/home/beimer/workspace/personal/garras/build/meson-private/cmake_sqlite3/CMakeFiles/rebuild_cache.dir
+/home/beimer/workspace/personal/garras/build/meson-private/cmake_sqlite3/CMakeFiles/edit_cache.dir

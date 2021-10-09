@@ -1,0 +1,14 @@
+[
+  {
+    "directory": "/home/beimer/workspace/personal/garras/build",
+    "command": "valac -C --debug --debug --pkg libhandy-1 --pkg sqlite3 --pkg gtk+-3.0 --pkg granite --color=always --directory com.github.dbeimer.garras@exe --basedir ../ ../src/Application.vala",
+    "file": "../src/Application.vala",
+    "output": "com.github.dbeimer.garras@exe/src/Application.c"
+  },
+  {
+    "directory": "/home/beimer/workspace/personal/garras/build",
+    "command": "cc -Icom.github.dbeimer.garras@exe -I. -I.. -I/usr/include/granite -I/usr/include/gee-0.8 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gtk-3.0 -I/usr/include/gio-unix-2.0 -I/usr/include/pango-1.0 -I/usr/include/fribidi -I/usr/include/harfbuzz -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libhandy-1 -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -w -g -pthread -MD -MQ 'com.github.dbeimer.garras@exe/meson-generated_src_Application.c.o' -MF 'com.github.dbeimer.garras@exe/meson-generated_src_Application.c.o.d' -o 'com.github.dbeimer.garras@exe/meson-generated_src_Application.c.o' -c 'com.github.dbeimer.garras@exe/src/Application.c'",
+    "file": "com.github.dbeimer.garras@exe/src/Application.c",
+    "output": "com.github.dbeimer.garras@exe/meson-generated_src_Application.c.o"
+  }
+]

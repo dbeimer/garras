@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Copyright 2021 Beimer beimercampos.123@gmail.com -->
+<component type="desktop">
+  <id>com.github.dbeimer.garras</id>
+  <metadata_license>CCO</metadata_license>
+  <name>Garras</name>
+  <summary>A nice app</summary>
+  <description>
+    <p>Flashcards for learning</p>
+  </description>
+</component>
