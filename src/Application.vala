@@ -79,6 +79,7 @@ public class MyApp: Gtk.Application{
     main_window.add(main_grid);
     main_window.show_all();
 
+
   }
 
   public static int main(string[] args){
