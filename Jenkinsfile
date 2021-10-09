@@ -3,7 +3,6 @@ pipeline{
   /* tools { */
     
   /* } */
-
   options {
     timeout(time:2,unit: 'MINUTES')
   }
